@@ -1,12 +1,12 @@
 # Data-Visualization-using-Seaborn-Library-in-Python
 
-Description: 
-Languages used: Python
-Libraries used: matplotlib, seaborn
-Notebooks used: Jupyter notebook
 
-Contents in this notebook
-Plots: Scatter Plot
+#Languages used: Python
+#Libraries used: matplotlib, seaborn
+#Notebooks used: Jupyter notebook
+
+#Contents in this notebook
+        Scatter Plot
        Line Plot
        Univariate Histograms
        Kernel Density Estimation (KDE)
